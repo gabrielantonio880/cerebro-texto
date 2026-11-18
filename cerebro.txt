@@ -1,0 +1,13 @@
+﻿oi;oie
+tudo bem;sim e vc
+qual é a capital do brasil;brasilia
+qual é seu nome,gabriel.py
+quantos é 2+2;é 4
+qual é o pais mais limpo do mundo;japão
+como fala obrigado em ingles;thank you
+bom dia;oi bom dia
+como fala obrigado em japones;arigato
+qual é o pais mais limpo do mundo-japão
+como fala obrigado em ingles-thank you
+bom dia-oi bom dia
+como fala obrigado em japones-arigato
